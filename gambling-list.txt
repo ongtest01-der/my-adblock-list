@@ -65,6 +65,18 @@
 ||vdo.stream^
 ||xn--365-1kl1e3c8a5a9q.net^
 ||zeus66v2.ink^
+||1xlite-613210.top^
+||anccplayer.cyou^
+||joker123zone.com^
+||juad888s.com^
+||krk888.app^
+||pgslots.shop^
+||regem.bet^
+||singha24sx3.com^
+||snambet.casino^
+||supreme888.info^
+||thunder24h2.com^
+||vegus24sx1.com^
 
 ! --- [Section 3] Regex Rules (สำหรับการดักจับรูปแบบชื่อโดเมน) ---
 /.*(bet|slot|casino|pgslot|ufabet).*\.com$/
