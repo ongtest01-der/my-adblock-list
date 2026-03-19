@@ -22,5 +22,36 @@
 ||vdo.stream^
 ||jads.co^
 
+! Title: My Custom Gambling Blocklist
+! Description: Personal list for blocking gambling sites
+! --------------------------------------------------
+||boston777i.com^
+||lockdown168q.com^
+||huayhit168k.com^
+||mahagame66.com^
+||sexy365bet.net^
+||panama8888c.cc^
+||ssgame666i.com^
+||78900112.vip^
+||ufa-11k.pro^
+||huaypung5.com^
+||sbobet888m.win^
+||baccarat888e.com^
+||sbobetone.co^
+||ambking99.games^
+||abm888.in^
+||pgw44.net^
+||pgk44b.org^
+||soibet.net^
+||ufabetl.org^
+||glcekm.com^
+||livescorethai.com^
+||xn--365-1kl1e3c8a5a9q.net^
+||rb289.online^
+||la350m.com^
+||1688sagame4.com^
+||mk82233.com^
+
 ! --- บล็อกด้วยคำค้นหา (Keyword/Regex) เพื่อดักโดเมนใหม่ ---
 /.*(bet|slot|casino|pgslot|ufabet).*\.com$/
+
