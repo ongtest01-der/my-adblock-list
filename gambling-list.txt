@@ -1,75 +1,70 @@
-! --- รายการบล็อกเว็บพนันและโฆษณาจากเครือข่าย Goseries4k ---
+! Title: Unified Gambling & Ad Blocklist
+! Last Updated: 2026-03-19
+! --------------------------------------------------
+
+! --- [Section 1] Wildcard Rules (ครอบคลุม Subdomain และโดเมนหลัก) ---
+||1xbet*.com^
+||789bet*.com^
 ||betflix*.com^
 ||betflix*.net^
+||gclub*.com^
 ||lucabet*.com^
 ||pgslot*.com^
+||sagame*.com^
+||sexygame*.com^
 ||slot168*.com^
 ||ufa*.com^
 ||ufa*.net^
-||sagame*.com^
-||sexygame*.com^
-||789bet*.com^
-||789step.com^
-||gclub*.com^
-||1xbet*.com^
 
-! --- บล็อกเครือข่ายโฆษณา (Ad Servers) ที่มักพบในเว็บสตรีมมิ่งไทย ---
-||proads.link^
-||streamads.link^
-||movieads.link^
-||fastads.link^
-||click.pststack.com^
-||vdo.stream^
-||jads.co^
-
-! Title: My Custom Gambling Blocklist
-! Description: Personal list for blocking gambling sites
-! --------------------------------------------------
-||boston777i.com^
-||lockdown168q.com^
-||huayhit168k.com^
-||mahagame66.com^
-||sexy365bet.net^
-||panama8888c.cc^
-||ssgame666i.com^
-||78900112.vip^
-||ufa-11k.pro^
-||huaypung5.com^
-||sbobet888m.win^
-||baccarat888e.com^
-||sbobetone.co^
-||ambking99.games^
-||abm888.in^
-||pgw44.net^
-||pgk44b.org^
-||soibet.net^
-||ufabetl.org^
-||glcekm.com^
-||livescorethai.com^
-||xn--365-1kl1e3c8a5a9q.net^
-||rb289.online^
-||la350m.com^
-||1688sagame4.com^
-||mk82233.com^
-
-! Custom Blocklist - Gambling & Redirects
-! --------------------------------------
-||brazil999b.cc^
-||lotto432ab.com^
-||1688sagame4.com^
-||kingdom66p.com^
-||hydra888r.com^
+! --- [Section 2] Specific Domains (เรียงตามลำดับอักษร) ---
 ||123lionth.link^
-||mammoth88.cc^
-||zeus66v2.ink^
-||mars95.cc^
-||ole7616.com^
-||thesedays.news^
-||playme108.xyz^
-||oldtimecandy.com^
-||sexy2021online.vip^
+||1688sagame4.com^
+||78900112.vip^
+||789step.com^
+||abm888.in^
+||ambking99.games^
+||baccarat888e.com^
+||boston777i.com^
+||brazil999b.cc^
+||click.pststack.com^
 ||cocospy.uk.com^
+||fastads.link^
+||glcekm.com^
+||huayhit168k.com^
+||huaypung5.com^
+||hydra888r.com^
+||jads.co^
+||kingdom66p.com^
+||la350m.com^
+||livescorethai.com^
+||lockdown168q.com^
+||lotto432ab.com^
+||mahagame66.com^
+||mammoth88.cc^
+||mars95.cc^
+||mk82233.com^
+||movieads.link^
+||oldtimecandy.com^
+||ole7616.com^
+||panama8888c.cc^
+||pgk44b.org^
+||pgw44.net^
+||playme108.xyz^
+||proads.link^
+||rb289.online^
+||sbobet888m.win^
+||sbobetone.co^
+||sexy2021online.vip^
+||sexy365bet.net^
+||soibet.net^
+||ssgame666i.com^
+||streamads.link^
+||thesedays.news^
+||ufa-11k.pro^
+||ufabetl.org^
+||vdo.stream^
+||xn--365-1kl1e3c8a5a9q.net^
+||zeus66v2.ink^
 
-! --- บล็อกด้วยคำค้นหา (Keyword/Regex) เพื่อดักโดเมนใหม่ ---
+! --- [Section 3] Regex Rules (สำหรับการดักจับรูปแบบชื่อโดเมน) ---
 /.*(bet|slot|casino|pgslot|ufabet).*\.com$/
-
