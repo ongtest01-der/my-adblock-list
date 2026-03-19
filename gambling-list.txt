@@ -1,0 +1,26 @@
+! --- รายการบล็อกเว็บพนันและโฆษณาจากเครือข่าย Goseries4k ---
+||betflix*.com^
+||betflix*.net^
+||lucabet*.com^
+||pgslot*.com^
+||slot168*.com^
+||ufa*.com^
+||ufa*.net^
+||sagame*.com^
+||sexygame*.com^
+||789bet*.com^
+||789step.com^
+||gclub*.com^
+||1xbet*.com^
+
+! --- บล็อกเครือข่ายโฆษณา (Ad Servers) ที่มักพบในเว็บสตรีมมิ่งไทย ---
+||proads.link^
+||streamads.link^
+||movieads.link^
+||fastads.link^
+||click.pststack.com^
+||vdo.stream^
+||jads.co^
+
+! --- บล็อกด้วยคำค้นหา (Keyword/Regex) เพื่อดักโดเมนใหม่ ---
+/.*(bet|slot|casino|pgslot|ufabet).*\.com$/
