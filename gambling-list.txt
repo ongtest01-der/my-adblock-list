@@ -52,6 +52,24 @@
 ||1688sagame4.com^
 ||mk82233.com^
 
+! Custom Blocklist - Gambling & Redirects
+! --------------------------------------
+||brazil999b.cc^
+||lotto432ab.com^
+||1688sagame4.com^
+||kingdom66p.com^
+||hydra888r.com^
+||123lionth.link^
+||mammoth88.cc^
+||zeus66v2.ink^
+||mars95.cc^
+||ole7616.com^
+||thesedays.news^
+||playme108.xyz^
+||oldtimecandy.com^
+||sexy2021online.vip^
+||cocospy.uk.com^
+
 ! --- บล็อกด้วยคำค้นหา (Keyword/Regex) เพื่อดักโดเมนใหม่ ---
 /.*(bet|slot|casino|pgslot|ufabet).*\.com$/
 
